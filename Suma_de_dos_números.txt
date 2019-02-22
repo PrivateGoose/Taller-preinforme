@@ -1,0 +1,11 @@
+print("Suma de dos números")
+
+numero1=float(input("Digita el primer número: "))
+
+numero2=float(input("Digita el segundo número: "))
+
+
+suma=numero1+numero2
+
+
+print(suma)

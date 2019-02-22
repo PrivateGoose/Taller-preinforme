@@ -1,0 +1,11 @@
+print("calcular promedio de tres números")
+
+numero1=float(input("Digita el primer número: "))
+
+numero2=float(input("Digita el segundo número: "))
+
+numero3=float(input("Digita el tercer número: "))
+
+promedio=(numero1+numero2+numero3)/3
+
+print(promedio)

@@ -1,0 +1,20 @@
+print("Número mayor que otro")
+
+numero1=float(input("Digita el primer número"))
+
+numero2=float(input("Digita el primer número"))
+
+
+
+if numero1>numero2:
+  
+print(str(numero1) + " es mayor que " + str(numero2))
+  
+
+elif numero1==numero2:
+  
+print("los numeros son iguales")
+
+else:
+
+  print(str(numero2) + " es mayor que " + str(numero1))

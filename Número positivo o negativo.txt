@@ -1,0 +1,14 @@
+print("Numero negativo o positivo")
+
+numero=int(input("Digita un número"))
+
+if numero>0:
+  print("Es un número positivo")
+
+elif numero==0:
+  
+print("El número es neutro")
+
+else:
+  
+print("El número es negativo")
